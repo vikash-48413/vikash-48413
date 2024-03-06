@@ -10,6 +10,31 @@ Hey, I'm Vikash! 👋
 
 Let's dive into the awe-inspiring world of Data Science and AI together – where every line of code holds the potential for discovery and innovation!
 
+🚀 Skills & Expertise
+
+Programming Languages:
+- Python 🐍
+- R 📊
+- Java ☕️
+
+Data Manipulation & Analysis:
+- Pandas 🐼
+- NumPy 🔢
+- SQL 📝
+
+Data Visualization:
+- Matplotlib 📊
+- Seaborn 🌊
+ 
+Version Control:
+- GitHub 🐙
+- 
+Other Skills:
+- Statistical Analysis 📊
+- Feature Engineering 🔍
+- Model Evaluation & Optimization 🎯
+
+
 <!---
 vikash-48413/vikash-48413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
