@@ -28,7 +28,7 @@ Data Visualization:
  
 Version Control:
 - GitHub 🐙
-- 
+
 Other Skills:
 - Statistical Analysis 📊
 - Feature Engineering 🔍
