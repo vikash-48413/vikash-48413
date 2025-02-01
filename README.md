@@ -14,22 +14,25 @@ Let's dive into the awe-inspiring world of Data Science and AI together – wher
 
 Programming Languages:
 - Python 🐍
-- R 📊
-- Java ☕️
+- SQL
 
 Data Manipulation & Analysis:
 - Pandas 🐼
 - NumPy 🔢
 - SQL 📝
+- Excel 
 
 Data Visualization:
 - Matplotlib 📊
 - Seaborn 🌊
+- Power BI 
  
 Version Control:
 - GitHub 🐙
 
 Other Skills:
+- Machine Learning
+- Deep Learning 🧠
 - Statistical Analysis 📊
 - Feature Engineering 🔍
 - Model Evaluation & Optimization 🎯
